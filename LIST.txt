@@ -1,4 +1,4 @@
-List packages in channel KodeStudio
+List packages in channel QuocThinhVo
 [Num]     [Name]                                    [Feature/Info]
 1.   black-icon-flaticon                        Icon pack form Flaticon
 2.   project-native                             Native project for Kode
